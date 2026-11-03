@@ -66,8 +66,8 @@ Key troubleshooting areas:
 
 ## 5. Technical Documentation
 
-Available supporting materials, including Mission Planner screenshots, flight logs and project photographs, will be added as supplementary evidence.
+Available supporting materials, including Mission Planner screenshots, flight logs and project photographs, are added as supplementary evidence.
 
 ## 6. Project Scope
 
-This section documents the testing and verification activities actually performed during the original quadcopter project. Additional historical records will be included where available.
+This section documents the testing and verification activities actually performed during the original quadcopter project. Additional historical records are included where available.
